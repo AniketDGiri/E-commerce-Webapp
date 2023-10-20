@@ -1,2 +1,2 @@
 "use strict";
-console.log("Backend pokemon API");
+console.log("Backend pokemon API's");
